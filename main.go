@@ -25,7 +25,7 @@ func Print() {
 }
 
 func main() {
-	print()
+	Print()
 }
 
 func DOSomething(times int, c chan int) {
